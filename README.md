@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Rathod</h1>
 <h3 align="center">The Lifelong Learner</h3>
-img align="right" alt="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&psig=AOvVaw2i4xWmcQJmS7BC1ctrGtpP&ust=1681582709128000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjQqPr9qf4CFQAAAAAdAAAAABAE"
+img align="right" alt="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473h880vs5kq3asbsi8c5oxwucdbfxbzjp7ig4s9g4&rid=giphy.gif&ct=g"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushjrathod&label=Profile%20views&color=0e75b6&style=flat" alt="ayushjrathod" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushjrathod" alt="ayushjrathod" /></a> </p>
