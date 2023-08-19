@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Rathod</h1>
 <h3 align="center">A passionate programmer from India.</h3>
+![](https://github.com/ayushjrathod/ayushjrathod/blob/main/giphy.gif)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayushjrathod](https://github.com/ayushjrathod)
 
