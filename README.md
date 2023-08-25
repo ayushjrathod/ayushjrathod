@@ -1,3 +1,8 @@
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/118300989/202200904-c80f4d52-84c7-4776-b8f6-231046a3e514.gif">
+
+
+
+\
 <h1 align="center">Hi 👋, I'm Ayush Rathod</h1>
 <h3 align="center">A passionate programmer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/ayushjrathod/ayushjrathod/blob/main/giphy.gif">
