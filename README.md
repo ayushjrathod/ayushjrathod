@@ -91,7 +91,7 @@
   <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/118300989/202200904-c80f4d52-84c7-4776-b8f6-231046a3e514.gif">
 
  ✌️ &emsp; Technology Entusiast <br/><br/>
- ❤️ &emsp; Love to code and teach the code<br/><br/>
+ ❤️ &emsp; Love to code and teach code<br/><br/>
  📧 &emsp; Reach me anytime: ayushjrathod7@gmail.com<br/><br/>
 
 </p>
