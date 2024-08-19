@@ -51,7 +51,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://github.com/ayushjrathod">Ayush Rathod</a></b>
+                <b><a target="_blank" href="https://www.ayushjrathod.tech/">Ayush Rathod</a></b>
         </samp>
 </h3>
 
